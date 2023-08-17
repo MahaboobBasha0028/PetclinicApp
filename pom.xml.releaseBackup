@@ -20,8 +20,8 @@
 
    
     <scm>
-        <developerConnection>scm:git:https://github.com/SriDevops-T/petclinicProject.git</developerConnection>
-        <url>https://github.com/SriDevops-T/petclinicProject.git</url>
+        <developerConnection>scm:git:https://github.com/MahaboobBasha0028/PetclinicApp.git</developerConnection>
+        <url>https://github.com/MahaboobBasha0028/PetclinicApp.git</url>
         <tag>4.4.0</tag>
     </scm>
 
